@@ -33,14 +33,3 @@ Always open to new challenges, and help when it is needed!
   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="c" width="40" height="40"/>
   <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="c" width="40" height="40"/>
 </p>
-
-
-## &#x1f4c8; My GitHub Stats
-
-<a href="https://github.com/dalejohgi/dalejohgi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalejohgi&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/dalejohgi/dalejohgi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dalejohgi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
-</a>
