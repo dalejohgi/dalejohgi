@@ -1,5 +1,5 @@
-### Hi there! I'm David, and I am a Software Developer from Colombia :flag_co:.
-
+### Hi there! I'm David, and I am a Software Developer from Colombia :colombia:
+:triangular_flag_on_post:
 <!--
 **dalejohgi/dalejohgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
