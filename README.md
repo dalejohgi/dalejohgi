@@ -10,12 +10,12 @@ Passionate about coding, maths, music, and a very creative person when it comes 
 
 Always open to new challenges, and help when it is needed!
 
-**:rocket: Reach me out on:**
+**:rocket: Find me on:**
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/dalejohgi)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dalejohgi/)
 [<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/dalejohgi/)
-
+[<img src="https://img.shields.io/badge/gmail-F04400.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](https://www.instagram.com/dalejohgi/)
 
 **Skills**
 <p float="left">
@@ -33,3 +33,11 @@ Always open to new challenges, and help when it is needed!
   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="c" width="40" height="40"/>
   <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="c" width="40" height="40"/>
 </p>
+
+<details>
+	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
+	<br/>
+	<img src="https://jf-gh-stats.vercel.app/api?username=dalejohgi&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
+	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=dalejohgi&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages" align="top"/>
+</details>
+
