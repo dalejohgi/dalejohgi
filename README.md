@@ -9,27 +9,15 @@ Passionate about coding, maths, music, and a very creative person when it comes 
 
 Always open to new challenges, and help when it is needed!
 
-
 **:rocket: Reach me out on:**
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/dalejohgi)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dalejohgi/)
 [<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/dalejohgi/)
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
-<!-- in your body -->
-<i class="devicon-linkedin-plain colored"></i>
 
-## 🌳 My Digital Garden
-
-You can find my blog posts on [blog.natterstefan.me][4]. I write about things
-I am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
-**NodeJS**. I also do reviews of software and hardware.
-
-## 🤜🏻🤛🏻 Support Me
-
-You can support me and [buy me a coffee][8], if you want. 🙏🏻
+**Skills**
+[<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://twitter.com/dalejohgi)
 
 ## 📕 Latest Blog Posts
 
