@@ -15,7 +15,7 @@ Always open to new challenges, and help when it is needed!
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/dalejohgi)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dalejohgi/)
 [<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/dalejohgi/)
-[<img src="https://img.shields.io/badge/gmail-F04400.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](https://www.instagram.com/dalejohgi/)
+[<img src="https://img.shields.io/badge/gmail-F04400.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:david.d98hg@gmail.com)
 
 **Skills**
 <p float="left">
