@@ -19,19 +19,19 @@ Always open to new challenges, and help when it is needed!
 
 **Skills**
 
-[<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>]
-[<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" alt="c" width="40" height="40"/>]
-[<img src="https://devicon.dev/devicon.git/icons/jquery/jquery-plain-wordmark.svg" alt="c" width="40" height="40"/>]
-[<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="c" width="40" height="40"/>]
-[<img src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="c" width="40" height="40"/>]
-[<img src="https://devicon.dev/devicon.git/icons/python/python-original-wordmark.svg" alt="c" width="40" height="40"/>]
-[<img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain-wordmark.svg" alt="c" width="40" height="40"/>]
-[<img src="https://www.gstatic.com/devrel-devsite/prod/v2f6fb68338062e7c16672db62c4ab042dcb9bfbacf2fa51b6959426b203a4d8a/firebase/images/touchicon-180.png" alt="c" width="40" height="40"/>]
-[<img src="https://devicon.dev/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="c" width="40" height="40"/>]
-[<img src="https://devicon.dev/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="c" width="40" height="40"/>]
-[<img src="https://devicon.dev/devicon.git/icons/linux/linux-plain.svg" alt="c" width="40" height="40"/>]
-[<img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="c" width="40" height="40"/>]
-[<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="c" width="40" height="40"/>]
+<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" alt="c" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/jquery/jquery-plain-wordmark.svg" alt="c" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="c" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="c" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/python/python-original-wordmark.svg" alt="c" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain-wordmark.svg" alt="c" width="40" height="40"/>
+<img src="https://www.gstatic.com/devrel-devsite/prod/v2f6fb68338062e7c16672db62c4ab042dcb9bfbacf2fa51b6959426b203a4d8a/firebase/images/touchicon-180.png" alt="c" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="c" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="c" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/linux/linux-plain.svg" alt="c" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="c" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="c" width="40" height="40"/>
 
 ## 📕 Latest Blog Posts
 
