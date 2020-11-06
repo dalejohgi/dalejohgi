@@ -20,8 +20,8 @@ Always open to new challenges, and help when it is needed!
 [<img src="https://img.shields.io/badge/gmail-F04400.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:david.d98hg@gmail.com)
 
 
-
-**:fire: Skills**
+<details>
+	<summary><b>:fire: Skills</b></summary>
 <p float="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" alt="c" width="40" height="40"/>
@@ -37,7 +37,7 @@ Always open to new challenges, and help when it is needed!
   <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="c" width="40" height="40"/>
   <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="c" width="40" height="40"/>
 </p>
-
+</details>
 
 
 <details>
