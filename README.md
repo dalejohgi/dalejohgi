@@ -34,6 +34,10 @@ Always open to new challenges, and help when it is needed!
   <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="c" width="40" height="40"/>
 </p>
 
+**Latest Porjects**
+[<img src="https://camo.githubusercontent.com/69c305f0a7c060ef7c4691e7db4ba901d3794fca5a797bd92c0b66d9b8587281/68747470733a2f2f692e696d6775722e636f6d2f677932466739562e706e67" alt="c" width="60" height="60"/>](https://www.youtube.com/watch?v=xQ7jVN6LxBk)
+
+
 <details>
 	<summary>✨&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
 	<br/>
