@@ -1,12 +1,12 @@
-### Hi there!👋,
+### Hi there! 👋,
 
-I am David, and I am a Software Developer from Colombia :colombia:
+I am David, a Software Developer from Colombia :colombia:
 
 I consider myself as an innovator person who loves learning from others, and who is always trying to outdo himself.
 
 Becoming a master in coding and contribute to developing tools that somehow make a positive impact on society is definitely my main goal.
 
-Passionate about coding, maths, music, and a very creative person when it comes to finding solutions.
+Passionate about coding, maths, music, arts and a very creative person when it comes to finding solutions.
 
 Always open to new challenges, and help when it is needed!
 
