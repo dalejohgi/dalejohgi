@@ -23,7 +23,7 @@ Always open to new challenges, and help when it is needed!
 <details>
 	<summary><b>:fire: Skills</b></summary>
 <p float="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" alt="c" width="40" height="40"/>
   <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-plain-wordmark.svg" alt="c" width="40" height="40"/>
   <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="c" width="40" height="40"/>
