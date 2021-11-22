@@ -23,19 +23,19 @@ Always open to new challenges, and help when it is needed!
 <details>
 	<summary><b>:fire: Skills</b></summary>
 <p float="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-plain.svg" alt="c" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-plain-wordmark.svg" alt="c" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="c" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/python/python-original-wordmark.svg" alt="c" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain-wordmark.svg" alt="c" width="40" height="40"/>
-  <img src="https://www.gstatic.com/devrel-devsite/prod/v2f6fb68338062e7c16672db62c4ab042dcb9bfbacf2fa51b6959426b203a4d8a/firebase/images/touchicon-180.png" alt="c"        width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/html5/html5-plain-wordmark.svg" alt="c" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/css3/css3-plain-wordmark.svg" alt="c" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/linux/linux-plain.svg" alt="c" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>  
 </p>
 </details>
 
